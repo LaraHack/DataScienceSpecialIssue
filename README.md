@@ -1,2 +1,2 @@
-# DataScienceSpecialIssue2021
-Submissions for the Data Science Special Issue 2021 with "Formalization Papers"
+# DataScienceSpecialIssue
+Submissions for the Data Science Special Issue with "Formalization Papers"
