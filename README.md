@@ -1,6 +1,6 @@
 ### Data Science special issue with formalization papers
 
-This repository contains the 15 submissions for the Data Science special issue with "formalization Papers". This special issue will be published by IOS Press in the first quarter of 2022. 
+This repository contains the 15 submissions for the [Data Science](https://datasciencehub.net/) special issue with "formalization Papers". This special issue will be published by [IOS Press](https://www.iospress.com/) in the first quarter of 2022. 
 
 Each paper in this special issue consists of RDF statements expressing a single scientific claim, and thus are written with deep formal semantics from the start. With this special issue, we want to formally publish the first such RDF papers. We focus on what we call “formalization papers”, which consist of an RDF representation of a claim from an already existing publication. The novel contribution of such a paper is therefore the formalization of the claim, but not the claim itself.
 
