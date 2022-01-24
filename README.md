@@ -6,5 +6,5 @@ Each paper in this special issue consists of RDF statements expressing a single 
 
 The formalization of the main scientific claim for each submission uses a semantic template called [the super-pattern](https://doi.org/10.1145/3460210.3493561) \[1\].
 
-\[1\] Bucur, C.I., Kuhn, T., Ceolin, D., Ossenbruggen, J. van. [Expressing high-level scientific claims with formal semantics] (https://doi.org/10.1145/3460210.3493561). In: Proceedings of the 11th Knowledge Capture Conference 2021. doi: 10.1145/3460210.3493561.
+\[1\] Bucur, C.I., Kuhn, T., Ceolin, D., Ossenbruggen, J. van. [Expressing high-level scientific claims with formal semantics](https://doi.org/10.1145/3460210.3493561). In: Proceedings of the 11th Knowledge Capture Conference 2021. doi: 10.1145/3460210.3493561.
 
